@@ -34,3 +34,10 @@ As shown, the commits on rebase branch (adding rebase.txt and anotherfile.txt ar
 Activity 6
 
 https://github.com/VardhanYash/ECE444-F2022-EP
+
+Activity 7
+
+![image](https://user-images.githubusercontent.com/59708439/190876216-72ef0ce1-3d04-43eb-8fb4-a61a5ee13f69.png)
+
+![image](https://user-images.githubusercontent.com/59708439/190876292-59df2d23-4477-43df-870c-f2e48232538f.png)
+
