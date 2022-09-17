@@ -18,3 +18,5 @@ Activity 4
 https://github.com/jameskokoska/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/59708439/190839583-125d7c7f-f231-4339-b674-ba43cef7e3b7.png)
+
+![image](https://user-images.githubusercontent.com/59708439/190870419-6ffd5aad-6bb4-4fe4-9bb0-3c359f3d2da9.png)
