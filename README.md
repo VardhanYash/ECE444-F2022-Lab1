@@ -30,3 +30,7 @@ Activity 5
 As shown, the commits on rebase branch (adding rebase.txt and anotherfile.txt are now after commit c4)
 
 ![image](https://user-images.githubusercontent.com/59708439/190871767-738be5cc-34e3-476c-b173-03808396c59a.png)
+
+Activity 6
+
+https://github.com/VardhanYash/ECE444-F2022-EP
