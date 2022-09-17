@@ -12,3 +12,9 @@ Activity 2
 Activity 3
 
 ![image](https://user-images.githubusercontent.com/59708439/190839306-ff281874-db4a-4a77-9077-650bb3c28af5.png)
+
+Activity 4
+
+https://github.com/jameskokoska/ECE444-F2022-Lab1
+
+![image](https://user-images.githubusercontent.com/59708439/190839583-125d7c7f-f231-4339-b674-ba43cef7e3b7.png)
