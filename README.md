@@ -25,11 +25,7 @@ Activity 5
 
 ![image](https://user-images.githubusercontent.com/59708439/190871743-70392f6d-3aca-4936-9551-4b0a9b6068cc.png)
 
-![image](https://user-images.githubusercontent.com/59708439/190871723-f9d0de3a-21e7-4b2d-9668-a479b79004e4.png)
-
-As shown, the commits on rebase branch (adding rebase.txt and anotherfile.txt are now after commit c4)
-
-![image](https://user-images.githubusercontent.com/59708439/190871767-738be5cc-34e3-476c-b173-03808396c59a.png)
+![image](https://user-images.githubusercontent.com/59708439/190876359-1c4d2dd5-6517-4290-b95d-702f27c1d613.png)
 
 Activity 6
 
