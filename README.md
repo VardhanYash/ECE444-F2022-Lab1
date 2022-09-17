@@ -27,6 +27,9 @@ Activity 5
 
 ![image](https://user-images.githubusercontent.com/59708439/190876359-1c4d2dd5-6517-4290-b95d-702f27c1d613.png)
 
+![image](https://user-images.githubusercontent.com/59708439/190876423-096ead40-a8d5-4994-a837-e07faa2fb58a.png)
+
+
 Activity 6
 
 https://github.com/VardhanYash/ECE444-F2022-EP
