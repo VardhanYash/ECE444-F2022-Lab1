@@ -20,3 +20,13 @@ https://github.com/jameskokoska/ECE444-F2022-Lab1
 ![image](https://user-images.githubusercontent.com/59708439/190839583-125d7c7f-f231-4339-b674-ba43cef7e3b7.png)
 
 ![image](https://user-images.githubusercontent.com/59708439/190870419-6ffd5aad-6bb4-4fe4-9bb0-3c359f3d2da9.png)
+
+Activity 5
+
+![image](https://user-images.githubusercontent.com/59708439/190871743-70392f6d-3aca-4936-9551-4b0a9b6068cc.png)
+
+![image](https://user-images.githubusercontent.com/59708439/190871723-f9d0de3a-21e7-4b2d-9668-a479b79004e4.png)
+
+As shown, the commits on rebase branch (adding rebase.txt and anotherfile.txt are now after commit c4)
+
+![image](https://user-images.githubusercontent.com/59708439/190871767-738be5cc-34e3-476c-b173-03808396c59a.png)
